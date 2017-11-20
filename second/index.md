@@ -21,3 +21,14 @@ cond(no)->op
 ```
 有的会预览不出来
 比如这个
+然而我还要研究一下为什么显示不出来哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈 辣鸡
+还有很多插件可以安装先找个图
+语法是这样的：
+感叹号是英文感叹号!
+!英文的
+！中文的不一样的看出来了吧
+!符号必须是英文！
+这是（）中文括号
+![这里面随便填什么](https://github.com/your_name/_your_仓库名/raw/master/second/logo.png)
+演示：
+![这里面随便填什么](https://github.com/mia-ophelia/mia-ophelia.github.io/raw/master/second/logo.png)
