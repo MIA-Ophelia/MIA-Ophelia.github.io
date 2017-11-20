@@ -24,4 +24,5 @@
 点开
 上面会显示此次提交的变动
 
-[打开我的日记页面](https://mia-ophelia.github.io/second/)
+[打开我的日记页面](https://mia-ophelia.github.io/second)
+[点击下载附件哦！](https://mia-ophelia.github.io/second/toolbar-manager.jpg)
