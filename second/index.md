@@ -29,6 +29,6 @@ cond(no)->op
 ！中文的不一样的看出来了吧
 !符号必须是英文！
 这是（）中文括号
-![这里面随便填什么](https://github.com/your_name/_your_仓库名/raw/master/second/logo.png)
+![这里面随便填什么](https://github.com/your_name/_your_仓库名/raw/master/文件地址)
 演示：
 ![这里面随便填什么](https://github.com/mia-ophelia/mia-ophelia.github.io/raw/master/second/logo.png)
